@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><eclipse-userlibraries version="2">
+    <library name="JAX-RS-JERSEY-API" systemlibrary="false">
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/api/javax.ws.rs-api-2.1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/aopalliance-repackaged-2.5.0-b42.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/cdi-api-1.1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/el-api-2.2.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/hk2-api-2.5.0-b42.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/hk2-locator-2.5.0-b42.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/hk2-utils-2.5.0-b42.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javassist-3.22.0-CR2.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javax.annotation-api-1.2.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javax.inject-1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javax.inject-2.5.0-b42.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javax.json-1.1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javax.json-api-1.1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javax.json.bind-api-1.0.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/javax.servlet-api-3.0.1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/jaxb-api-2.2.7.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/jsr250-api-1.0.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/org.osgi.core-4.2.0.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/osgi-resource-locator-1.0.1.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/persistence-api-1.0.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/validation-api-1.1.0.Final.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/ext/yasson-1.0.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-client.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-common.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-container-servlet-core.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-container-servlet.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-hk2.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-media-jaxb.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-media-json-binding.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-media-sse.jar"/>
+        <archive path="/TestUserInterface/src/libraries/JAX-RS_2.0/lib/jersey-server.jar"/>
+    </library>
+</eclipse-userlibraries>
