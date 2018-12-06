@@ -1,6 +1,6 @@
 package apiResources.ResponsePojos;
 
-public class BadResponse {
+public class GoodResponse {
 
 	boolean error;
 	int code;
